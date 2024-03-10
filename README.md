@@ -31,11 +31,11 @@ pip install seleniumbase
 ## 🤖 Usage
 
 1. Clone or download the repository to your local machine.
-2. Open the `main.py` file and replace `YOUR_USERNAME_GOES_HERE` and `YOUR_PASSWORD_GOES_HERE` with your NitroType username and password, respectively.
-3. Run the `main.py` script using Python:
+2. Open the `NitroTypeBot.py` file and replace `YOUR_USERNAME_GOES_HERE` and `YOUR_PASSWORD_GOES_HERE` with your NitroType username and password, respectively.
+3. Run the `NitroTypeBot.py` script using Python:
 
 ```bash
-python main.py
+python NitroTypeBot.py
 ```
 
 4. The script will open a new browser window, log in to your NitroType account,
